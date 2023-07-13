@@ -8,7 +8,7 @@ username: "andre" # < TU_USUARIO@hodl.ar
 
 # NOSTR Settings
  nostr: # Sin el # adelante
-   npub: "npub1l63sf9ktwuchkpmxr6qf573dz2t3alndv2rklze3vlrjyrpfggys8xl886" # Entre comillas dobles
+  npub: "npub1l63sf9ktwuchkpmxr6qf573dz2t3alndv2rklze3vlrjyrpfggys8xl886" # Entre comillas dobles
 
 # Configuración Global
 html:
